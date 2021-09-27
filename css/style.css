@@ -9,13 +9,13 @@
 .box{
     background-color: #006dfa;
     border: 1px solid white;
-    line-height: 50px;
     color: white;
-    padding: 20px 40px;
+    padding: 20px 8px;
     text-align: center;
 }
 
 .box-nested{
     background-color: #01e165;
-    border: 1px solid white;
+    border: 1px solid #006dfa;
+    padding: 20px 30px;
 }
