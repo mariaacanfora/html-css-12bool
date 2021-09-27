@@ -26,3 +26,40 @@ section{
     border: 1px solid #006dfa;
     padding: 20px 30px;
 }
+
+.justify-start{
+    justify-content: flex-start;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-end{
+    justify-content: flex-end;
+}
+
+.min-height{
+    min-height: 100px;
+    padding: 0;
+}
+
+.align-top{
+    align-items: flex-start;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.align-bottom{
+    align-items: flex-end;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.space-between{
+    justify-content: space-between;
+}
